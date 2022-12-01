@@ -1,0 +1,8 @@
+C:\Users\Cangel\source\repos\Two bidimensional arrays multplication\Two bidimensional arrays multplication\bin\Debug\Two bidimensional arrays multplication.exe.config
+C:\Users\Cangel\source\repos\Two bidimensional arrays multplication\Two bidimensional arrays multplication\bin\Debug\Two bidimensional arrays multplication.exe
+C:\Users\Cangel\source\repos\Two bidimensional arrays multplication\Two bidimensional arrays multplication\bin\Debug\Two bidimensional arrays multplication.pdb
+C:\Users\Cangel\source\repos\Two bidimensional arrays multplication\Two bidimensional arrays multplication\obj\Debug\Two bidimensional arrays multplication.csproj.AssemblyReference.cache
+C:\Users\Cangel\source\repos\Two bidimensional arrays multplication\Two bidimensional arrays multplication\obj\Debug\Two bidimensional arrays multplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\source\repos\Two bidimensional arrays multplication\Two bidimensional arrays multplication\obj\Debug\Two bidimensional arrays multplication.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\source\repos\Two bidimensional arrays multplication\Two bidimensional arrays multplication\obj\Debug\Two bidimensional arrays multplication.exe
+C:\Users\Cangel\source\repos\Two bidimensional arrays multplication\Two bidimensional arrays multplication\obj\Debug\Two bidimensional arrays multplication.pdb

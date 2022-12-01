@@ -1,0 +1,11 @@
+C:\Users\Cangel\source\repos\Test2\Test2\bin\Debug\Test2.exe.config
+C:\Users\Cangel\source\repos\Test2\Test2\bin\Debug\Test2.exe
+C:\Users\Cangel\source\repos\Test2\Test2\bin\Debug\Test2.pdb
+C:\Users\Cangel\source\repos\Test2\Test2\obj\Debug\Test2.csproj.AssemblyReference.cache
+C:\Users\Cangel\source\repos\Test2\Test2\obj\Debug\Test2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\source\repos\Test2\Test2\obj\Debug\Test2.Form1.resources
+C:\Users\Cangel\source\repos\Test2\Test2\obj\Debug\Test2.Properties.Resources.resources
+C:\Users\Cangel\source\repos\Test2\Test2\obj\Debug\Test2.csproj.GenerateResource.cache
+C:\Users\Cangel\source\repos\Test2\Test2\obj\Debug\Test2.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\source\repos\Test2\Test2\obj\Debug\Test2.exe
+C:\Users\Cangel\source\repos\Test2\Test2\obj\Debug\Test2.pdb

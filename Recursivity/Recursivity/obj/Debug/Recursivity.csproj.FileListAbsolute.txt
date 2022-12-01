@@ -1,0 +1,8 @@
+C:\Users\Cangel\source\repos\Recursivity\Recursivity\obj\Debug\Recursivity.csproj.AssemblyReference.cache
+C:\Users\Cangel\source\repos\Recursivity\Recursivity\obj\Debug\Recursivity.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\source\repos\Recursivity\Recursivity\obj\Debug\Recursivity.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\source\repos\Recursivity\Recursivity\bin\Debug\Recursivity.exe.config
+C:\Users\Cangel\source\repos\Recursivity\Recursivity\bin\Debug\Recursivity.exe
+C:\Users\Cangel\source\repos\Recursivity\Recursivity\bin\Debug\Recursivity.pdb
+C:\Users\Cangel\source\repos\Recursivity\Recursivity\obj\Debug\Recursivity.exe
+C:\Users\Cangel\source\repos\Recursivity\Recursivity\obj\Debug\Recursivity.pdb

@@ -1,0 +1,8 @@
+C:\Users\Cangel\source\repos\MediaGeneralPOO\MediaGeneralPOO\bin\Debug\MediaGeneralPOO.exe.config
+C:\Users\Cangel\source\repos\MediaGeneralPOO\MediaGeneralPOO\bin\Debug\MediaGeneralPOO.exe
+C:\Users\Cangel\source\repos\MediaGeneralPOO\MediaGeneralPOO\bin\Debug\MediaGeneralPOO.pdb
+C:\Users\Cangel\source\repos\MediaGeneralPOO\MediaGeneralPOO\obj\Debug\MediaGeneralPOO.csproj.AssemblyReference.cache
+C:\Users\Cangel\source\repos\MediaGeneralPOO\MediaGeneralPOO\obj\Debug\MediaGeneralPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\source\repos\MediaGeneralPOO\MediaGeneralPOO\obj\Debug\MediaGeneralPOO.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\source\repos\MediaGeneralPOO\MediaGeneralPOO\obj\Debug\MediaGeneralPOO.exe
+C:\Users\Cangel\source\repos\MediaGeneralPOO\MediaGeneralPOO\obj\Debug\MediaGeneralPOO.pdb

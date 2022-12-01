@@ -1,0 +1,8 @@
+C:\Users\Cangel\source\repos\Estatic\Estatic\bin\Debug\Estatic.exe.config
+C:\Users\Cangel\source\repos\Estatic\Estatic\bin\Debug\Estatic.exe
+C:\Users\Cangel\source\repos\Estatic\Estatic\bin\Debug\Estatic.pdb
+C:\Users\Cangel\source\repos\Estatic\Estatic\obj\Debug\Estatico.csproj.AssemblyReference.cache
+C:\Users\Cangel\source\repos\Estatic\Estatic\obj\Debug\Estatico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\source\repos\Estatic\Estatic\obj\Debug\Estatico.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\source\repos\Estatic\Estatic\obj\Debug\Estatic.exe
+C:\Users\Cangel\source\repos\Estatic\Estatic\obj\Debug\Estatic.pdb

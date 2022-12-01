@@ -1,0 +1,8 @@
+C:\Users\Cangel\source\repos\Heranca\Heranca\bin\Debug\Heranca.exe.config
+C:\Users\Cangel\source\repos\Heranca\Heranca\bin\Debug\Heranca.exe
+C:\Users\Cangel\source\repos\Heranca\Heranca\bin\Debug\Heranca.pdb
+C:\Users\Cangel\source\repos\Heranca\Heranca\obj\Debug\Heranca.csproj.AssemblyReference.cache
+C:\Users\Cangel\source\repos\Heranca\Heranca\obj\Debug\Heranca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\source\repos\Heranca\Heranca\obj\Debug\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\source\repos\Heranca\Heranca\obj\Debug\Heranca.exe
+C:\Users\Cangel\source\repos\Heranca\Heranca\obj\Debug\Heranca.pdb

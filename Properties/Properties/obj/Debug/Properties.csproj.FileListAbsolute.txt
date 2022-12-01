@@ -1,0 +1,8 @@
+C:\Users\Cangel\source\repos\Properties\Properties\bin\Debug\Properties.exe.config
+C:\Users\Cangel\source\repos\Properties\Properties\bin\Debug\Properties.exe
+C:\Users\Cangel\source\repos\Properties\Properties\bin\Debug\Properties.pdb
+C:\Users\Cangel\source\repos\Properties\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+C:\Users\Cangel\source\repos\Properties\Properties\obj\Debug\Properties.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\source\repos\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\source\repos\Properties\Properties\obj\Debug\Properties.exe
+C:\Users\Cangel\source\repos\Properties\Properties\obj\Debug\Properties.pdb
