@@ -1,0 +1,12 @@
+C:\Users\Cangel\source\repos\LoginSys\LoginSys\bin\Debug\LoginSys.exe.config
+C:\Users\Cangel\source\repos\LoginSys\LoginSys\bin\Debug\LoginSys.exe
+C:\Users\Cangel\source\repos\LoginSys\LoginSys\bin\Debug\LoginSys.pdb
+C:\Users\Cangel\source\repos\LoginSys\LoginSys\obj\Debug\LoginSys.csproj.AssemblyReference.cache
+C:\Users\Cangel\source\repos\LoginSys\LoginSys\obj\Debug\LoginSys.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\source\repos\LoginSys\LoginSys\obj\Debug\LoginSys.Form1.resources
+C:\Users\Cangel\source\repos\LoginSys\LoginSys\obj\Debug\LoginSys.Properties.Resources.resources
+C:\Users\Cangel\source\repos\LoginSys\LoginSys\obj\Debug\LoginSys.csproj.GenerateResource.cache
+C:\Users\Cangel\source\repos\LoginSys\LoginSys\obj\Debug\LoginSys.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\source\repos\LoginSys\LoginSys\obj\Debug\LoginSys.exe
+C:\Users\Cangel\source\repos\LoginSys\LoginSys\obj\Debug\LoginSys.pdb
+C:\Users\Cangel\source\repos\LoginSys\LoginSys\obj\Debug\LoginSys.FormLogin.resources
