@@ -1,0 +1,11 @@
+C:\Users\Cangel\source\repos\AdvancedLists\AdvancedLists\bin\Debug\AdvancedLists.exe.config
+C:\Users\Cangel\source\repos\AdvancedLists\AdvancedLists\bin\Debug\AdvancedLists.exe
+C:\Users\Cangel\source\repos\AdvancedLists\AdvancedLists\bin\Debug\AdvancedLists.pdb
+C:\Users\Cangel\source\repos\AdvancedLists\AdvancedLists\obj\Debug\AdvancedLists.csproj.AssemblyReference.cache
+C:\Users\Cangel\source\repos\AdvancedLists\AdvancedLists\obj\Debug\AdvancedLists.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\source\repos\AdvancedLists\AdvancedLists\obj\Debug\AdvancedLists.Form1.resources
+C:\Users\Cangel\source\repos\AdvancedLists\AdvancedLists\obj\Debug\AdvancedLists.Properties.Resources.resources
+C:\Users\Cangel\source\repos\AdvancedLists\AdvancedLists\obj\Debug\AdvancedLists.csproj.GenerateResource.cache
+C:\Users\Cangel\source\repos\AdvancedLists\AdvancedLists\obj\Debug\AdvancedLists.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\source\repos\AdvancedLists\AdvancedLists\obj\Debug\AdvancedLists.exe
+C:\Users\Cangel\source\repos\AdvancedLists\AdvancedLists\obj\Debug\AdvancedLists.pdb
