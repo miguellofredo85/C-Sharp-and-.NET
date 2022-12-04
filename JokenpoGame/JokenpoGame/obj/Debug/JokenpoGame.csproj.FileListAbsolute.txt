@@ -1,0 +1,11 @@
+C:\Users\Cangel\Desktop\C-Sharp\JokenpoGame\JokenpoGame\bin\Debug\JokenpoGame.exe.config
+C:\Users\Cangel\Desktop\C-Sharp\JokenpoGame\JokenpoGame\bin\Debug\JokenpoGame.exe
+C:\Users\Cangel\Desktop\C-Sharp\JokenpoGame\JokenpoGame\bin\Debug\JokenpoGame.pdb
+C:\Users\Cangel\Desktop\C-Sharp\JokenpoGame\JokenpoGame\obj\Debug\JokenpoGame.csproj.AssemblyReference.cache
+C:\Users\Cangel\Desktop\C-Sharp\JokenpoGame\JokenpoGame\obj\Debug\JokenpoGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\Desktop\C-Sharp\JokenpoGame\JokenpoGame\obj\Debug\JokenpoGame.Form1.resources
+C:\Users\Cangel\Desktop\C-Sharp\JokenpoGame\JokenpoGame\obj\Debug\JokenpoGame.Properties.Resources.resources
+C:\Users\Cangel\Desktop\C-Sharp\JokenpoGame\JokenpoGame\obj\Debug\JokenpoGame.csproj.GenerateResource.cache
+C:\Users\Cangel\Desktop\C-Sharp\JokenpoGame\JokenpoGame\obj\Debug\JokenpoGame.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\Desktop\C-Sharp\JokenpoGame\JokenpoGame\obj\Debug\JokenpoGame.exe
+C:\Users\Cangel\Desktop\C-Sharp\JokenpoGame\JokenpoGame\obj\Debug\JokenpoGame.pdb
