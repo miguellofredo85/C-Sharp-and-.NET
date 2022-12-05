@@ -1,0 +1,11 @@
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ClassesImportant\bin\Debug\ClassesImportant.exe.config
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ClassesImportant\bin\Debug\ClassesImportant.exe
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ClassesImportant\bin\Debug\ClassesImportant.pdb
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ClassesImportant\obj\Debug\ClassesImportant.csproj.AssemblyReference.cache
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ClassesImportant\obj\Debug\ClassesImportant.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ClassesImportant\obj\Debug\ClassesImportant.Form1.resources
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ClassesImportant\obj\Debug\ClassesImportant.Properties.Resources.resources
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ClassesImportant\obj\Debug\ClassesImportant.csproj.GenerateResource.cache
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ClassesImportant\obj\Debug\ClassesImportant.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ClassesImportant\obj\Debug\ClassesImportant.exe
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ClassesImportant\obj\Debug\ClassesImportant.pdb

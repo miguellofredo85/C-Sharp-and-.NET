@@ -1,0 +1,11 @@
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ThreadForm\bin\Debug\ThreadForm.exe.config
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ThreadForm\bin\Debug\ThreadForm.exe
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ThreadForm\bin\Debug\ThreadForm.pdb
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ThreadForm\obj\Debug\ThreadForm.csproj.AssemblyReference.cache
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ThreadForm\obj\Debug\ThreadForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ThreadForm\obj\Debug\ThreadForm.Form1.resources
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ThreadForm\obj\Debug\ThreadForm.Properties.Resources.resources
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ThreadForm\obj\Debug\ThreadForm.csproj.GenerateResource.cache
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ThreadForm\obj\Debug\ThreadForm.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ThreadForm\obj\Debug\ThreadForm.exe
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ThreadForm\obj\Debug\ThreadForm.pdb

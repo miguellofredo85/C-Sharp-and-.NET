@@ -1,0 +1,8 @@
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\TaskConsole\bin\Debug\TaskConsole.exe.config
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\TaskConsole\bin\Debug\TaskConsole.exe
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\TaskConsole\bin\Debug\TaskConsole.pdb
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\TaskConsole\obj\Debug\TaskConsole.csproj.AssemblyReference.cache
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\TaskConsole\obj\Debug\TaskConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\TaskConsole\obj\Debug\TaskConsole.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\TaskConsole\obj\Debug\TaskConsole.exe
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\TaskConsole\obj\Debug\TaskConsole.pdb

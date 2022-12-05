@@ -1,0 +1,8 @@
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ThreadConsole\bin\Debug\ThreadConsole.exe.config
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ThreadConsole\bin\Debug\ThreadConsole.exe
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ThreadConsole\bin\Debug\ThreadConsole.pdb
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ThreadConsole\obj\Debug\ThreadConsole.csproj.AssemblyReference.cache
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ThreadConsole\obj\Debug\ThreadConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ThreadConsole\obj\Debug\ThreadConsole.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ThreadConsole\obj\Debug\ThreadConsole.exe
+C:\Users\Cangel\Desktop\C-Sharp\ClassesImportant\ThreadConsole\obj\Debug\ThreadConsole.pdb
