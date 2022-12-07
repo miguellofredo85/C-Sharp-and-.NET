@@ -1,0 +1,11 @@
+C:\Users\Cangel\Desktop\C-Sharp\FormInDeep\FormControle\bin\Debug\FormControle.exe.config
+C:\Users\Cangel\Desktop\C-Sharp\FormInDeep\FormControle\bin\Debug\FormControle.exe
+C:\Users\Cangel\Desktop\C-Sharp\FormInDeep\FormControle\bin\Debug\FormControle.pdb
+C:\Users\Cangel\Desktop\C-Sharp\FormInDeep\FormControle\obj\Debug\FormControle.csproj.AssemblyReference.cache
+C:\Users\Cangel\Desktop\C-Sharp\FormInDeep\FormControle\obj\Debug\FormControle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\Desktop\C-Sharp\FormInDeep\FormControle\obj\Debug\FormControle.Form1.resources
+C:\Users\Cangel\Desktop\C-Sharp\FormInDeep\FormControle\obj\Debug\FormControle.Properties.Resources.resources
+C:\Users\Cangel\Desktop\C-Sharp\FormInDeep\FormControle\obj\Debug\FormControle.csproj.GenerateResource.cache
+C:\Users\Cangel\Desktop\C-Sharp\FormInDeep\FormControle\obj\Debug\FormControle.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\Desktop\C-Sharp\FormInDeep\FormControle\obj\Debug\FormControle.exe
+C:\Users\Cangel\Desktop\C-Sharp\FormInDeep\FormControle\obj\Debug\FormControle.pdb

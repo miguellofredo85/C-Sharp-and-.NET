@@ -1,0 +1,5 @@
+C:\Users\Cangel\Desktop\C-Sharp\Form\Form\obj\Debug\Formulary.csproj.AssemblyReference.cache
+C:\Users\Cangel\Desktop\C-Sharp\Form\Form\obj\Debug\Formulary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\Desktop\C-Sharp\Form\Form\obj\Debug\Form.Properties.Resources.resources
+C:\Users\Cangel\Desktop\C-Sharp\Form\Form\obj\Debug\Formulary.csproj.GenerateResource.cache
+C:\Users\Cangel\Desktop\C-Sharp\Form\Form\obj\Debug\Formulary.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\Users\Cangel\Desktop\C-Sharp\FormInDeep\FormInDeep\bin\Debug\FormInDeep.exe.config
+C:\Users\Cangel\Desktop\C-Sharp\FormInDeep\FormInDeep\bin\Debug\FormInDeep.exe
+C:\Users\Cangel\Desktop\C-Sharp\FormInDeep\FormInDeep\bin\Debug\FormInDeep.pdb
+C:\Users\Cangel\Desktop\C-Sharp\FormInDeep\FormInDeep\obj\Debug\FormInDeep.csproj.AssemblyReference.cache
+C:\Users\Cangel\Desktop\C-Sharp\FormInDeep\FormInDeep\obj\Debug\FormInDeep.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\Desktop\C-Sharp\FormInDeep\FormInDeep\obj\Debug\FormInDeep.FormMain.resources
+C:\Users\Cangel\Desktop\C-Sharp\FormInDeep\FormInDeep\obj\Debug\FormInDeep.FormSecond.resources
+C:\Users\Cangel\Desktop\C-Sharp\FormInDeep\FormInDeep\obj\Debug\FormInDeep.Properties.Resources.resources
+C:\Users\Cangel\Desktop\C-Sharp\FormInDeep\FormInDeep\obj\Debug\FormInDeep.csproj.GenerateResource.cache
+C:\Users\Cangel\Desktop\C-Sharp\FormInDeep\FormInDeep\obj\Debug\FormInDeep.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\Desktop\C-Sharp\FormInDeep\FormInDeep\obj\Debug\FormInDeep.exe
+C:\Users\Cangel\Desktop\C-Sharp\FormInDeep\FormInDeep\obj\Debug\FormInDeep.pdb
