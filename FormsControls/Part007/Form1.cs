@@ -16,5 +16,10 @@ namespace Part007
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            // works practicaly the same as checklistbost Part006
+        }
     }
 }
