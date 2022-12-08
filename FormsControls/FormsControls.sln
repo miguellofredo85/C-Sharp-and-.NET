@@ -35,6 +35,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part015", "Part015\Part015.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part016", "Part016\Part016.csproj", "{1CD141B3-E7A3-4CDF-B5EA-B6B1CAE4F800}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part017", "Part017\Part017.csproj", "{A644FDEE-69D4-4E1E-99BD-CFC97DE4FC4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part018", "Part018\Part018.csproj", "{19918552-ABF4-4E5E-A751-307D3DB4FCE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part019", "Part019\Part019.csproj", "{C154C810-1740-44D8-A8A2-4E803912F287}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +111,18 @@ Global
 		{1CD141B3-E7A3-4CDF-B5EA-B6B1CAE4F800}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CD141B3-E7A3-4CDF-B5EA-B6B1CAE4F800}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CD141B3-E7A3-4CDF-B5EA-B6B1CAE4F800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A644FDEE-69D4-4E1E-99BD-CFC97DE4FC4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A644FDEE-69D4-4E1E-99BD-CFC97DE4FC4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A644FDEE-69D4-4E1E-99BD-CFC97DE4FC4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A644FDEE-69D4-4E1E-99BD-CFC97DE4FC4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19918552-ABF4-4E5E-A751-307D3DB4FCE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19918552-ABF4-4E5E-A751-307D3DB4FCE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19918552-ABF4-4E5E-A751-307D3DB4FCE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19918552-ABF4-4E5E-A751-307D3DB4FCE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C154C810-1740-44D8-A8A2-4E803912F287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C154C810-1740-44D8-A8A2-4E803912F287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C154C810-1740-44D8-A8A2-4E803912F287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C154C810-1740-44D8-A8A2-4E803912F287}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
