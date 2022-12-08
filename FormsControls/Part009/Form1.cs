@@ -20,6 +20,7 @@ namespace Part009
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             MessageBox.Show("Where are you going?...");
+            linkLabel1.LinkVisited= true;
         }
     }
 }
