@@ -41,6 +41,7 @@
             this.colName,
             this.colPhone,
             this.colEmail});
+            this.listView1.GridLines = true;
             this.listView1.HideSelection = false;
             this.listView1.Location = new System.Drawing.Point(12, 3);
             this.listView1.Name = "listView1";

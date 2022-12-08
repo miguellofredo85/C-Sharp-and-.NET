@@ -41,7 +41,8 @@ namespace Part010
         private void button1_Click(object sender, EventArgs e)
         {
             //listView1.Items.Clear();
-            listView1.Items.Remove(listView1.SelectedItems[0]);
+            listView1.Items.Remove(listView1.SelectedItems[0]);// remove selected item
+            //listView1.Items.RemoveAt(2);
         }
     }
 }
