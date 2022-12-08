@@ -1,0 +1,11 @@
+C:\Users\Cangel\Desktop\C-Sharp\FormsControls\Part024\bin\Debug\Part024.exe.config
+C:\Users\Cangel\Desktop\C-Sharp\FormsControls\Part024\bin\Debug\Part024.exe
+C:\Users\Cangel\Desktop\C-Sharp\FormsControls\Part024\bin\Debug\Part024.pdb
+C:\Users\Cangel\Desktop\C-Sharp\FormsControls\Part024\obj\Debug\Part024.csproj.AssemblyReference.cache
+C:\Users\Cangel\Desktop\C-Sharp\FormsControls\Part024\obj\Debug\Part024.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\Desktop\C-Sharp\FormsControls\Part024\obj\Debug\Part024.Form1.resources
+C:\Users\Cangel\Desktop\C-Sharp\FormsControls\Part024\obj\Debug\Part024.Properties.Resources.resources
+C:\Users\Cangel\Desktop\C-Sharp\FormsControls\Part024\obj\Debug\Part024.csproj.GenerateResource.cache
+C:\Users\Cangel\Desktop\C-Sharp\FormsControls\Part024\obj\Debug\Part024.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\Desktop\C-Sharp\FormsControls\Part024\obj\Debug\Part024.exe
+C:\Users\Cangel\Desktop\C-Sharp\FormsControls\Part024\obj\Debug\Part024.pdb
