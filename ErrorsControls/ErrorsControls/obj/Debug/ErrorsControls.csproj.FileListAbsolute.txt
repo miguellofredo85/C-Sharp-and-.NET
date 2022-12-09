@@ -1,0 +1,11 @@
+C:\Users\Cangel\Desktop\C-Sharp\ErrorsControls\ErrorsControls\bin\Debug\ErrorsControls.exe.config
+C:\Users\Cangel\Desktop\C-Sharp\ErrorsControls\ErrorsControls\bin\Debug\ErrorsControls.exe
+C:\Users\Cangel\Desktop\C-Sharp\ErrorsControls\ErrorsControls\bin\Debug\ErrorsControls.pdb
+C:\Users\Cangel\Desktop\C-Sharp\ErrorsControls\ErrorsControls\obj\Debug\ErrorsControls.csproj.AssemblyReference.cache
+C:\Users\Cangel\Desktop\C-Sharp\ErrorsControls\ErrorsControls\obj\Debug\ErrorsControls.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\Desktop\C-Sharp\ErrorsControls\ErrorsControls\obj\Debug\ErrorsControls.Form1.resources
+C:\Users\Cangel\Desktop\C-Sharp\ErrorsControls\ErrorsControls\obj\Debug\ErrorsControls.Properties.Resources.resources
+C:\Users\Cangel\Desktop\C-Sharp\ErrorsControls\ErrorsControls\obj\Debug\ErrorsControls.csproj.GenerateResource.cache
+C:\Users\Cangel\Desktop\C-Sharp\ErrorsControls\ErrorsControls\obj\Debug\ErrorsControls.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\Desktop\C-Sharp\ErrorsControls\ErrorsControls\obj\Debug\ErrorsControls.exe
+C:\Users\Cangel\Desktop\C-Sharp\ErrorsControls\ErrorsControls\obj\Debug\ErrorsControls.pdb
