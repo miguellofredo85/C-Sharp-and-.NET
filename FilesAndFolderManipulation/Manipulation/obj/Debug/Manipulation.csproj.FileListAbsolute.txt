@@ -1,0 +1,11 @@
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\Manipulation\bin\Debug\Manipulation.exe.config
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\Manipulation\bin\Debug\Manipulation.exe
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\Manipulation\bin\Debug\Manipulation.pdb
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\Manipulation\obj\Debug\Manipulation.csproj.AssemblyReference.cache
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\Manipulation\obj\Debug\Manipulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\Manipulation\obj\Debug\Manipulation.Form1.resources
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\Manipulation\obj\Debug\Manipulation.Properties.Resources.resources
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\Manipulation\obj\Debug\Manipulation.csproj.GenerateResource.cache
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\Manipulation\obj\Debug\Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\Manipulation\obj\Debug\Manipulation.exe
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\Manipulation\obj\Debug\Manipulation.pdb

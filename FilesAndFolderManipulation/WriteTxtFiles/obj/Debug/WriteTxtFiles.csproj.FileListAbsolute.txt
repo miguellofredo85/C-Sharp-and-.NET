@@ -1,0 +1,11 @@
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\WriteTxtFiles\bin\Debug\WriteTxtFiles.exe.config
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\WriteTxtFiles\bin\Debug\WriteTxtFiles.exe
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\WriteTxtFiles\bin\Debug\WriteTxtFiles.pdb
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\WriteTxtFiles\obj\Debug\WriteTxtFiles.csproj.AssemblyReference.cache
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\WriteTxtFiles\obj\Debug\WriteTxtFiles.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\WriteTxtFiles\obj\Debug\WriteTxtFiles.Form1.resources
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\WriteTxtFiles\obj\Debug\WriteTxtFiles.Properties.Resources.resources
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\WriteTxtFiles\obj\Debug\WriteTxtFiles.csproj.GenerateResource.cache
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\WriteTxtFiles\obj\Debug\WriteTxtFiles.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\WriteTxtFiles\obj\Debug\WriteTxtFiles.exe
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\WriteTxtFiles\obj\Debug\WriteTxtFiles.pdb

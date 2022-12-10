@@ -1,0 +1,11 @@
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\FilesAndFolderManipulation\bin\Debug\FilesAndFolderManipulation.exe.config
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\FilesAndFolderManipulation\bin\Debug\FilesAndFolderManipulation.exe
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\FilesAndFolderManipulation\bin\Debug\FilesAndFolderManipulation.pdb
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\FilesAndFolderManipulation\obj\Debug\FilesAndFolderManipulation.csproj.AssemblyReference.cache
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\FilesAndFolderManipulation\obj\Debug\FilesAndFolderManipulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\FilesAndFolderManipulation\obj\Debug\FilesAndFolderManipulation.Form1.resources
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\FilesAndFolderManipulation\obj\Debug\FilesAndFolderManipulation.Properties.Resources.resources
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\FilesAndFolderManipulation\obj\Debug\FilesAndFolderManipulation.csproj.GenerateResource.cache
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\FilesAndFolderManipulation\obj\Debug\FilesAndFolderManipulation.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\FilesAndFolderManipulation\obj\Debug\FilesAndFolderManipulation.exe
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\FilesAndFolderManipulation\obj\Debug\FilesAndFolderManipulation.pdb

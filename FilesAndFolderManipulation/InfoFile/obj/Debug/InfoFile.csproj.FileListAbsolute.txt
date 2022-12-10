@@ -1,0 +1,11 @@
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\InfoFile\bin\Debug\InfoFile.exe.config
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\InfoFile\bin\Debug\InfoFile.exe
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\InfoFile\bin\Debug\InfoFile.pdb
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\InfoFile\obj\Debug\InfoFile.csproj.AssemblyReference.cache
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\InfoFile\obj\Debug\InfoFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\InfoFile\obj\Debug\InfoFile.Form1.resources
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\InfoFile\obj\Debug\InfoFile.Properties.Resources.resources
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\InfoFile\obj\Debug\InfoFile.csproj.GenerateResource.cache
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\InfoFile\obj\Debug\InfoFile.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\InfoFile\obj\Debug\InfoFile.exe
+C:\Users\Cangel\Desktop\C-Sharp\FilesAndFolderManipulation\InfoFile\obj\Debug\InfoFile.pdb
