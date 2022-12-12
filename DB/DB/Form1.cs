@@ -250,5 +250,106 @@ namespace DB
             #endregion
 
         }
+
+        private void btnSearch_Click(object sender, EventArgs e)
+        {
+            dataGridView1.Rows.Clear();
+            //textBox1.Text = "";
+
+            #region SQLServer
+
+            //string dataBase = Application.StartupPath + @"\db\DBSQLServer.sdf";
+            //string connection = @"DataSource = " + dataBase + "; Password = ''";
+
+            //SqlCeConnection connect = new SqlCeConnection(connection);
+
+            //try
+            //{
+            //    string sqlquery = "SELECT * FROM persons";
+
+            //    if (textBox1.Text != "")
+            //    {
+            //        sqlquery = "SELECT * FROM persons WHERE name LIKE '"+ textBox1.Text +"'";
+
+            //    }
+            //    DataTable dataTable= new DataTable();
+
+            //    SqlCeDataAdapter adapter= new SqlCeDataAdapter(sqlquery,connection); // fill DataTable
+
+            //    connect.Open();
+
+            //    adapter.Fill(dataTable); 
+
+            //    foreach (DataRow row in dataTable.Rows)
+            //    {
+            //        dataGridView1.Rows.Add(row.ItemArray); // each row is an array 
+            //    }
+            //}
+            //catch (Exception ex)
+            //{
+            //    dataGridView1.Rows.Clear();
+            //    textBox1.Text = ex.Message;
+            //}
+            //finally
+            //{
+            //    connect.Close();
+            //}
+
+            #endregion
+
+            // to SQLite is the same code, just change SqlCe 
+
+            #region MySQL
+
+            string connection = "Server=127.0.0.1; User Id=root;database=course_db;password=";
+            MySqlConnection connect = new MySqlConnection(connection);
+
+            try
+            {
+                string sqlquery = "SELECT * FROM persons";
+
+                if (textBox1.Text != "")
+                {
+                    sqlquery = "SELECT * FROM persons WHERE name LIKE '" + textBox1.Text + "'";
+
+                }
+                DataTable dataTable = new DataTable();
+
+                MySqlDataAdapter adapter = new MySqlDataAdapter(sqlquery, connection); // fill DataTable
+
+                connect.Open();
+
+                adapter.Fill(dataTable);
+
+                foreach (DataRow row in dataTable.Rows)
+                {
+                    dataGridView1.Rows.Add(row.ItemArray); // each row is an array 
+                }
+                textBox1.Text = "";
+            }
+            catch (Exception ex)
+            {
+                dataGridView1.Rows.Clear();
+                textBox1.Text = ex.Message;
+            }
+            finally
+            {
+               
+                connect.Close();
+            }
+
+            #endregion
+        }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
