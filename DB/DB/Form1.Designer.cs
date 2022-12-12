@@ -174,6 +174,7 @@
             this.btnDelete.TabIndex = 10;
             this.btnDelete.Text = "Delete";
             this.btnDelete.UseVisualStyleBackColor = true;
+            this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
             // 
             // S
             // 
@@ -183,6 +184,7 @@
             this.S.TabIndex = 11;
             this.S.Text = "Edit";
             this.S.UseVisualStyleBackColor = true;
+            this.S.Click += new System.EventHandler(this.S_Click);
             // 
             // Form1
             // 

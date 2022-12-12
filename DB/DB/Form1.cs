@@ -254,7 +254,6 @@ namespace DB
         private void btnSearch_Click(object sender, EventArgs e)
         {
             dataGridView1.Rows.Clear();
-            //textBox1.Text = "";
 
             #region SQLServer
 
@@ -284,6 +283,7 @@ namespace DB
             //    {
             //        dataGridView1.Rows.Add(row.ItemArray); // each row is an array 
             //    }
+            //        textBox1.Text = "";
             //}
             //catch (Exception ex)
             //{
@@ -338,6 +338,152 @@ namespace DB
                 connect.Close();
             }
 
+            #endregion
+        }
+
+        private void btnDelete_Click(object sender, EventArgs e)
+        {
+            #region SQL Server
+            //string dataBase = Application.StartupPath + @"\db\DBSQLServer.sdf";
+            //string connection = @"DataSource = " + dataBase + "; Password = ''";
+
+            //SqlCeConnection connect = new SqlCeConnection(connection);
+
+            //try
+            //{
+            //    connect.Open();
+
+            //    SqlCeCommand command = new SqlCeCommand();
+            //    command.Connection = connect;
+
+            //    int id = (int)dataGridView1.SelectedRows[0].Cells[0].Value; // index 0 is id string converted to int
+
+            //    command.CommandText = "DELETE FROM persons WHERE id = '" + id + "'";
+
+            //    command.ExecuteNonQuery();
+
+            //    label1.Text = "Register deleted (SQL Server) !";
+
+            //    command.Dispose();
+            //}
+            //catch (Exception ex)
+            //{
+            //    label1.Text = ex.Message;
+            //}
+            //finally
+            //{
+            //    connect.Close();
+            //}
+            #endregion
+
+            // to SQLite is the same code, just change SqlCe 
+
+
+            #region MySQL
+            string connection = "Server=127.0.0.1; User Id=root;database=course_db;password=";
+            MySqlConnection connect = new MySqlConnection(connection);
+
+            try
+            {
+                connect.Open();
+
+                MySqlCommand command = new MySqlCommand();
+                command.Connection = connect;
+
+                int id = (int)dataGridView1.SelectedRows[0].Cells[0].Value; // index 0 is id string converted to int
+
+                command.CommandText = "DELETE FROM persons WHERE id = '" + id + "'";
+
+                command.ExecuteNonQuery();
+
+                label1.Text = "Register deleted (MySQL)!";
+
+                command.Dispose();
+            }
+            catch (Exception ex)
+            {
+                label1.Text = ex.Message;
+            }
+            finally
+            {
+                connect.Close();
+            }
+            #endregion
+        }
+
+        private void S_Click(object sender, EventArgs e)
+        {
+            #region SQL Server
+            //string dataBase = Application.StartupPath + @"\db\DBSQLServer.sdf";
+            //string connection = @"DataSource = " + dataBase + "; Password = ''";
+
+            //SqlCeConnection connect = new SqlCeConnection(connection);
+
+            //try
+            //{
+            //    connect.Open();
+
+            //    SqlCeCommand command = new SqlCeCommand();
+            //    command.Connection = connect;
+
+            //    int id = (int)dataGridView1.SelectedRows[0].Cells[0].Value; // index 0 is id string converted to int
+
+            //    string query = "UPDATE persons SET name = '"+textBox1+"', email = '"+textBox2.Text+"' WHERE id LIKE '"+id+"' ";
+
+            //    command.CommandText = query;
+
+            //    command.ExecuteNonQuery();
+
+            //    label1.Text = "Register modified (SQL Server) !";
+
+            //    command.Dispose();
+            //}
+            //catch (Exception ex)
+            //{
+            //    label1.Text = ex.Message;
+            //}
+            //finally
+            //{
+            //    connect.Close();
+            //}
+            #endregion
+
+            // to SQLite is the same code, just change SqlCe 
+
+
+            #region MySQL
+            string connection = "Server=127.0.0.1; User Id=root;database=course_db;password=";
+            MySqlConnection connect = new MySqlConnection(connection);
+
+            try
+            {
+                connect.Open();
+
+                MySqlCommand command = new MySqlCommand();
+                command.Connection = connect;
+
+                int id = (int)dataGridView1.SelectedRows[0].Cells[0].Value; // index 0 is id string converted to int
+
+                string query = "UPDATE persons SET name = '" + textBox1.Text + "', email = '" + textBox2.Text + "' WHERE id LIKE '" + id + "' ";
+
+                command.CommandText = query;
+
+                command.ExecuteNonQuery();
+
+                label1.Text = "Register modified (MySQL)!";
+                textBox1.Text = "";
+                textBox2.Text = "";
+
+                command.Dispose();
+            }
+            catch (Exception ex)
+            {
+                label1.Text = ex.Message;
+            }
+            finally
+            {
+                connect.Close();
+            }
             #endregion
         }
     }
