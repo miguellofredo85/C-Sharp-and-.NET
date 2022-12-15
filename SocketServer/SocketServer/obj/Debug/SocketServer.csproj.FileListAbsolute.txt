@@ -1,0 +1,8 @@
+C:\Users\Cangel\Desktop\C-Sharp\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\Cangel\Desktop\C-Sharp\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Cangel\Desktop\C-Sharp\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Cangel\Desktop\C-Sharp\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.AssemblyReference.cache
+C:\Users\Cangel\Desktop\C-Sharp\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\Desktop\C-Sharp\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\Desktop\C-Sharp\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\Cangel\Desktop\C-Sharp\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
