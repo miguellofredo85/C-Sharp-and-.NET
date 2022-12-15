@@ -1,0 +1,11 @@
+C:\Users\Cangel\Desktop\C-Sharp\GDIPlus\GDIPlus\bin\Debug\GDIPlus.exe.config
+C:\Users\Cangel\Desktop\C-Sharp\GDIPlus\GDIPlus\bin\Debug\GDIPlus.exe
+C:\Users\Cangel\Desktop\C-Sharp\GDIPlus\GDIPlus\bin\Debug\GDIPlus.pdb
+C:\Users\Cangel\Desktop\C-Sharp\GDIPlus\GDIPlus\obj\Debug\GDIPlus.csproj.AssemblyReference.cache
+C:\Users\Cangel\Desktop\C-Sharp\GDIPlus\GDIPlus\obj\Debug\GDIPlus.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\Desktop\C-Sharp\GDIPlus\GDIPlus\obj\Debug\GDIPlus.Form1.resources
+C:\Users\Cangel\Desktop\C-Sharp\GDIPlus\GDIPlus\obj\Debug\GDIPlus.Properties.Resources.resources
+C:\Users\Cangel\Desktop\C-Sharp\GDIPlus\GDIPlus\obj\Debug\GDIPlus.csproj.GenerateResource.cache
+C:\Users\Cangel\Desktop\C-Sharp\GDIPlus\GDIPlus\obj\Debug\GDIPlus.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\Desktop\C-Sharp\GDIPlus\GDIPlus\obj\Debug\GDIPlus.exe
+C:\Users\Cangel\Desktop\C-Sharp\GDIPlus\GDIPlus\obj\Debug\GDIPlus.pdb
