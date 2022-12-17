@@ -1,0 +1,11 @@
+C:\Users\Cangel\Desktop\C-Sharp\FileTransferServer\FileTransferServer\bin\Debug\FileTransferServer.exe.config
+C:\Users\Cangel\Desktop\C-Sharp\FileTransferServer\FileTransferServer\bin\Debug\FileTransferServer.exe
+C:\Users\Cangel\Desktop\C-Sharp\FileTransferServer\FileTransferServer\bin\Debug\FileTransferServer.pdb
+C:\Users\Cangel\Desktop\C-Sharp\FileTransferServer\FileTransferServer\obj\Debug\FileTransferServer.csproj.AssemblyReference.cache
+C:\Users\Cangel\Desktop\C-Sharp\FileTransferServer\FileTransferServer\obj\Debug\FileTransferServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\Desktop\C-Sharp\FileTransferServer\FileTransferServer\obj\Debug\FileTransferServer.Form1.resources
+C:\Users\Cangel\Desktop\C-Sharp\FileTransferServer\FileTransferServer\obj\Debug\FileTransferServer.Properties.Resources.resources
+C:\Users\Cangel\Desktop\C-Sharp\FileTransferServer\FileTransferServer\obj\Debug\FileTransferServer.csproj.GenerateResource.cache
+C:\Users\Cangel\Desktop\C-Sharp\FileTransferServer\FileTransferServer\obj\Debug\FileTransferServer.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\Desktop\C-Sharp\FileTransferServer\FileTransferServer\obj\Debug\FileTransferServer.exe
+C:\Users\Cangel\Desktop\C-Sharp\FileTransferServer\FileTransferServer\obj\Debug\FileTransferServer.pdb

@@ -1,0 +1,11 @@
+C:\Users\Cangel\Desktop\C-Sharp\FTClient\FTClient\obj\Debug\FTClient.csproj.AssemblyReference.cache
+C:\Users\Cangel\Desktop\C-Sharp\FTClient\FTClient\obj\Debug\FTClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\Desktop\C-Sharp\FTClient\FTClient\obj\Debug\FTClient.Form1.resources
+C:\Users\Cangel\Desktop\C-Sharp\FTClient\FTClient\obj\Debug\FTClient.Properties.Resources.resources
+C:\Users\Cangel\Desktop\C-Sharp\FTClient\FTClient\obj\Debug\FTClient.csproj.GenerateResource.cache
+C:\Users\Cangel\Desktop\C-Sharp\FTClient\FTClient\obj\Debug\FTClient.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\Desktop\C-Sharp\FTClient\FTClient\bin\Debug\FTClient.exe.config
+C:\Users\Cangel\Desktop\C-Sharp\FTClient\FTClient\bin\Debug\FTClient.exe
+C:\Users\Cangel\Desktop\C-Sharp\FTClient\FTClient\bin\Debug\FTClient.pdb
+C:\Users\Cangel\Desktop\C-Sharp\FTClient\FTClient\obj\Debug\FTClient.exe
+C:\Users\Cangel\Desktop\C-Sharp\FTClient\FTClient\obj\Debug\FTClient.pdb
