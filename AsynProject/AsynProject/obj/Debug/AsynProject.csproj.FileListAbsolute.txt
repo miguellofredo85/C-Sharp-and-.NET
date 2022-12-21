@@ -1,0 +1,11 @@
+C:\Users\Cangel\Desktop\C-Sharp\AsynProject\AsynProject\bin\Debug\AsynProject.exe.config
+C:\Users\Cangel\Desktop\C-Sharp\AsynProject\AsynProject\bin\Debug\AsynProject.exe
+C:\Users\Cangel\Desktop\C-Sharp\AsynProject\AsynProject\bin\Debug\AsynProject.pdb
+C:\Users\Cangel\Desktop\C-Sharp\AsynProject\AsynProject\obj\Debug\AsynProject.csproj.AssemblyReference.cache
+C:\Users\Cangel\Desktop\C-Sharp\AsynProject\AsynProject\obj\Debug\AsynProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cangel\Desktop\C-Sharp\AsynProject\AsynProject\obj\Debug\AsynProject.Form1.resources
+C:\Users\Cangel\Desktop\C-Sharp\AsynProject\AsynProject\obj\Debug\AsynProject.Properties.Resources.resources
+C:\Users\Cangel\Desktop\C-Sharp\AsynProject\AsynProject\obj\Debug\AsynProject.csproj.GenerateResource.cache
+C:\Users\Cangel\Desktop\C-Sharp\AsynProject\AsynProject\obj\Debug\AsynProject.csproj.CoreCompileInputs.cache
+C:\Users\Cangel\Desktop\C-Sharp\AsynProject\AsynProject\obj\Debug\AsynProject.exe
+C:\Users\Cangel\Desktop\C-Sharp\AsynProject\AsynProject\obj\Debug\AsynProject.pdb
