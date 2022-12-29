@@ -1,7 +1,7 @@
-# C\#  .Net and Windows Forms
-Projects and Studies from Udemy's course with profesor Gabriel Artigas Pierri C\# Completo a Profisional.
+# C\#  .Net e Windows Forms
+## Projetos e Estudos de la plataforma Udemy con el profesor Gabriel Artigas Pierri C\# Completo a Profisional.
 
-Alguns dos Tópicos que serão abordados durante o curso:
+### Alguns dos Tópicos que serão abordados durante o curso:
 
 . Estruturas básicas da programação
 
